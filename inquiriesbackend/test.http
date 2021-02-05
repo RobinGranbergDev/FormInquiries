@@ -1,0 +1,12 @@
+POST http://localhost:4000/app/inquirie
+Content-Type: application/json
+
+{
+    "subCategory":"IT",
+    "start":"Anytime",
+    "title":"Intern",
+    "description":"Intern by försäkringskassan",
+    "fullName":"Robin Granberg",
+    "phone":"0703828457",
+    "email":"robin.granberg@hotmail.com"
+}
